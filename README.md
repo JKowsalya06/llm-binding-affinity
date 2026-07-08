@@ -392,22 +392,6 @@ This project is licensed under the **MIT License** – see LICENSE file for deta
 
 ---
 
-## ✉️ Contact & Citation
-
-**Author**: [Your Name]  
-**Email**: [your.email@example.com]  
-**Lab/Affiliation**: [Your Lab/University]
-
-If you use this code in research, please cite:
-```bibtex
-@software{lassa_cbm_2024,
-  author = {Your Name},
-  title = {Lassa Virus Binding Affinity Prediction with Interpretable CBM},
-  year = {2024},
-  url = {https://github.com/YOUR_USERNAME/lassa-binding-affinity}
-}
-```
-
 ---
 
 ## 🎓 Key Learnings
