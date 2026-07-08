@@ -198,6 +198,3 @@ FINAL_LLM_CODE.ipynb        ~1.5 MB
 Keep notebooks for **reference & reproducibility**. Use `main.py` for **production**.
 
 ---
-
-**Last Updated:** July 2024  
-**Status:** ✅ Both notebooks tested and validated
